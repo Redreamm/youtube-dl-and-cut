@@ -1,0 +1,4 @@
+pandas
+yt_dlp # 2023.7.6
+pydub
+# ffmpeg (Not python package! https://www.ffmpeg.org and Add FFmpeg to PATH)
